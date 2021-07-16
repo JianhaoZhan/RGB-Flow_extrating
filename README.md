@@ -32,7 +32,7 @@ rgb:
 python extract_frames.py /home/eed-server3/Downloads/dataset/UCF-101/   /home/eed-server3/Downloads/dataset/res_UCF-101  0  101
 ```
 
-# NTU-RGB-D:（此rgb文件由于帧率、文件结构等不同于UCF而重写）
+# NTU-RGB-D:
 
 rgb:            
 ```python
